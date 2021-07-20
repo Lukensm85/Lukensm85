@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lukensm85
-- 👀 I’m interested in learning Python programming
+- 👀 I’m interested in learning Java and Python programming
 - 🌱 I’m currently learning Java, Python, Microsoft Powershell
 - 💞️ I’m looking to collaborate on School projects
 - 📫 How to reach me lukensm@msn.com
